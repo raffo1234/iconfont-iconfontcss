@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="44px" height="54px" viewBox="0 0 44 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-file</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Styleguide---Icons" transform="translate(-348.000000, -255.000000)" fill="#0277BD">
+            <g id="icon-file" transform="translate(348.000000, 255.000000)">
+                <path d="M2,2.99956092 L2,2.99956092 L2,51.0004391 C2,51.5569973 2.44378763,52 2.99926328,52 L32.1879883,52 L30.768716,52.5908633 L42.5807277,40.6938907 L42,42.1030273 L42,2.99419334 C42,2.44747322 41.5506995,2 40.9930191,2 L3.0069809,2 C2.44674803,2 2,2.44620055 2,2.99956092 L2,2.99956092 Z M0,2.99956092 C0,1.34294917 1.34085738,0 3.0069809,0 L40.9930191,0 C42.6537288,0 44,1.34135417 44,2.99419334 L44,42.1030273 L32.1879883,54 L2.99926328,54 C1.34281591,54 0,52.6651611 0,51.0004391 L0,2.99956092 L0,2.99956092 Z" id="Rectangle-194"></path>
+                <path d="M32,53 L32,43.997152 C32,42.894057 32.8940059,42 33.997152,42 L43,42 L43,40 L33.997152,40 C31.7894109,40 30,41.7895131 30,43.997152 L30,53 L32,53 L32,53 Z" id="Path-331"></path>
+                <rect id="Rectangle-195" x="8" y="8" width="27" height="2"></rect>
+                <rect id="Rectangle-195-Copy" x="8" y="14" width="27" height="2"></rect>
+                <rect id="Rectangle-195-Copy-2" x="8" y="20" width="15" height="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

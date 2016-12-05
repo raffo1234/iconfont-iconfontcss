@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-checkbig</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Styleguide---Icons" transform="translate(-599.000000, -150.000000)" fill="#009B5E">
+            <path d="M611,174 C617.627417,174 623,168.627417 623,162 C623,155.372583 617.627417,150 611,150 C604.372583,150 599,155.372583 599,162 C599,168.627417 604.372583,174 611,174 Z M608.927857,164.282143 L605.732857,161.087143 L604.142857,162.677143 L608.912857,167.447143 L617.912857,158.447143 L616.322857,156.857143 L608.927857,164.282143 L608.927857,164.282143 Z" id="icon-checkbig"></path>
+        </g>
+    </g>
+</svg>

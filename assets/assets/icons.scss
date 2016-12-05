@@ -1,0 +1,246 @@
+@font-face {
+	font-family: "icons";
+	src: url('css/icons.eot');
+	src: url('css/icons.eot?#iefix') format('eot'),
+		url('css/icons.woff2') format('woff2'),
+		url('css/icons.woff') format('woff'),
+		url('css/icons.ttf') format('truetype'),
+		url('css/icons.svg#icons') format('svg');
+}
+
+.icon:before {
+	font-family: "icons";
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	/* speak: none; only necessary if not using the private unicode range (firstGlyph option) */
+	text-decoration: none;
+	text-transform: none;
+}
+
+
+.icon-admin-center:before {
+	content: "\E001";
+}
+
+.icon-agreement:before {
+	content: "\E002";
+}
+
+.icon-alert:before {
+	content: "\E003";
+}
+
+.icon-approve-done:before {
+	content: "\E004";
+}
+
+.icon-approve:before {
+	content: "\E005";
+}
+
+.icon-approved:before {
+	content: "\E006";
+}
+
+.icon-arrow-left:before {
+	content: "\E007";
+}
+
+.icon-arrow-right:before {
+	content: "\E008";
+}
+
+.icon-arrow-setup:before {
+	content: "\E009";
+}
+
+.icon-arrow:before {
+	content: "\E00A";
+}
+
+.icon-atom:before {
+	content: "\E00B";
+}
+
+.icon-attach:before {
+	content: "\E00C";
+}
+
+.icon-bell:before {
+	content: "\E00D";
+}
+
+.icon-check:before {
+	content: "\E00E";
+}
+
+.icon-checkbig:before {
+	content: "\E00F";
+}
+
+.icon-checkbox-done:before {
+	content: "\E010";
+}
+
+.icon-checkflow:before {
+	content: "\E011";
+}
+
+.icon-checkinput:before {
+	content: "\E012";
+}
+
+.icon-checksmall:before {
+	content: "\E013";
+}
+
+.icon-close-modal:before {
+	content: "\E014";
+}
+
+.icon-close:before {
+	content: "\E015";
+}
+
+.icon-closemodal:before {
+	content: "\E016";
+}
+
+.icon-conference:before {
+	content: "\E017";
+}
+
+.icon-cv:before {
+	content: "\E018";
+}
+
+.icon-deletefile:before {
+	content: "\E019";
+}
+
+.icon-download:before {
+	content: "\E01A";
+}
+
+.icon-dropdown:before {
+	content: "\E01B";
+}
+
+.icon-edit:before {
+	content: "\E01C";
+}
+
+.icon-empty:before {
+	content: "\E01D";
+}
+
+.icon-externallink:before {
+	content: "\E01E";
+}
+
+.icon-eye:before {
+	content: "\E01F";
+}
+
+.icon-file:before {
+	content: "\E020";
+}
+
+.icon-go:before {
+	content: "\E021";
+}
+
+.icon-googlescholar:before {
+	content: "\E022";
+}
+
+.icon-hidden:before {
+	content: "\E023";
+}
+
+.icon-icon-close-modal:before {
+	content: "\E024";
+}
+
+.icon-inbox:before {
+	content: "\E025";
+}
+
+.icon-informatics:before {
+	content: "\E026";
+}
+
+.icon-letter:before {
+	content: "\E027";
+}
+
+.icon-linkedin:before {
+	content: "\E028";
+}
+
+.icon-location:before {
+	content: "\E029";
+}
+
+.icon-lock:before {
+	content: "\E02A";
+}
+
+.icon-logout:before {
+	content: "\E02B";
+}
+
+.icon-member-center:before {
+	content: "\E02C";
+}
+
+.icon-question:before {
+	content: "\E02D";
+}
+
+.icon-reject-done:before {
+	content: "\E02E";
+}
+
+.icon-reject:before {
+	content: "\E02F";
+}
+
+.icon-rejected:before {
+	content: "\E030";
+}
+
+.icon-see:before {
+	content: "\E031";
+}
+
+.icon-seeprofile:before {
+	content: "\E032";
+}
+
+.icon-settings:before {
+	content: "\E033";
+}
+
+.icon-success:before {
+	content: "\E034";
+}
+
+.icon-tour:before {
+	content: "\E035";
+}
+
+.icon-trash:before {
+	content: "\E036";
+}
+
+.icon-upload:before {
+	content: "\E037";
+}
+
+.icon-warning:before {
+	content: "\E038";
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-tour</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Styleguide---Icons" transform="translate(-840.000000, -273.000000)" fill="#939FB4">
+            <path d="M849,288 L851,288 L851,282 L849,282 L849,288 L849,288 Z M850,273 C844.48,273 840,277.48 840,283 C840,288.52 844.48,293 850,293 C855.52,293 860,288.52 860,283 C860,277.48 855.52,273 850,273 L850,273 Z M850,291 C845.59,291 842,287.41 842,283 C842,278.59 845.59,275 850,275 C854.41,275 858,278.59 858,283 C858,287.41 854.41,291 850,291 L850,291 Z M849,280 L851,280 L851,278 L849,278 L849,280 L849,280 Z" id="icon-tour"></path>
+        </g>
+    </g>
+</svg>

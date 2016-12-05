@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-approve</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Styleguide---Icons" transform="translate(-358.000000, -390.000000)" fill="#939FB4">
+            <g id="icon-approve" transform="translate(358.000000, 390.000000)">
+                <path d="M12,23.5 C18.3512746,23.5 23.5,18.3512746 23.5,12 C23.5,5.64872538 18.3512746,0.5 12,0.5 C5.64872538,0.5 0.5,5.64872538 0.5,12 C0.5,18.3512746 5.64872538,23.5 12,23.5 L12,23.5 Z M12,22.5 C6.20101013,22.5 1.5,17.7989899 1.5,12 C1.5,6.20101013 6.20101013,1.5 12,1.5 C17.7989899,1.5 22.5,6.20101013 22.5,12 C22.5,17.7989899 17.7989899,22.5 12,22.5 L12,22.5 Z" id="Oval-1111"></path>
+                <path d="M10.1699346,13.4705882 L7.38562092,10.6862745 L6,12.0718954 L10.1568627,16.2287582 L18,8.38562092 L16.6143791,7 L10.1699346,13.4705882 L10.1699346,13.4705882 Z" id="Path-Copy"></path>
+            </g>
+        </g>
+    </g>
+</svg>

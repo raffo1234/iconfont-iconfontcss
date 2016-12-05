@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-seeprofile</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Styleguide---Icons" transform="translate(-843.000000, -395.000000)" fill="#0277BD">
+            <g id="icon-seeprofile" transform="translate(843.000000, 395.000000)">
+                <path d="M10.5,3.5 C10.5,5.43666667 8.93666667,7 7,7 C5.06333333,7 3.5,5.43666667 3.5,3.5 C3.5,1.56333333 5.06333333,0 7,0 C8.93666667,0 10.5,1.56333333 10.5,3.5 L10.5,3.5 Z" id="Path"></path>
+                <path d="M0,12.8333333 C0,10.5 4.66666667,9.21666667 7,9.21666667 C9.33333333,9.21666667 14,10.5 14,12.8333333 L14,14 L0,14 L0,12.8333333 L0,12.8333333 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

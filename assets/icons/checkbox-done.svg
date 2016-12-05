@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-checkbox-done</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Styleguide---Icons" transform="translate(-1323.000000, -395.000000)">
+            <g id="icon-checkbox-done" transform="translate(1323.000000, 395.000000)">
+                <rect id="Rectangle-657" fill="#00A967" x="0" y="0" width="15" height="15" rx="2"></rect>
+                <path d="M4.06,6.82 L3,7.88 L6.18,11.06 L12.18,5.06 L11.12,4 L6.19,8.95 L4.06,6.82 Z" id="Path" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

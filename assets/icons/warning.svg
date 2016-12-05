@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_warning</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Styleguide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Styleguide-03-IconSet" transform="translate(-319.000000, -209.000000)" fill="#000000">
+            <path d="M328,220 L330,220 L330,214 L328,214 L328,220 L328,220 Z M329,209 C323.48,209 319,213.48 319,219 C319,224.52 323.48,229 329,229 C334.52,229 339,224.52 339,219 C339,213.48 334.52,209 329,209 L329,209 Z M329,227 C324.59,227 321,223.41 321,219 C321,214.59 324.59,211 329,211 C333.41,211 337,214.59 337,219 C337,223.41 333.41,227 329,227 L329,227 Z M328,224 L330,224 L330,222 L328,222 L328,224 L328,224 Z" id="icon_warning"></path>
+        </g>
+    </g>
+</svg>

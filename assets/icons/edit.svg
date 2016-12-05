@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="12px" height="16px" viewBox="0 0 12 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-edit</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Styleguide---Icons" transform="translate(-244.000000, -274.000000)" fill="#0277BD">
+            <g id="icon-edit" transform="translate(244.000000, 274.000000)">
+                <path d="M0,9.50034717 L0,12 L2.49965283,12 L9.87196223,4.6276906 L7.3723094,2.12803777 L1.18407344e-15,9.50034717 L0,9.50034717 Z M11.8050271,2.69462575 C12.064991,2.43466185 12.064991,2.01472018 11.8050271,1.75475628 L10.2452437,0.19497292 C9.98527982,-0.0649909735 9.56533815,-0.0649909735 9.30537425,0.19497292 L8.08554367,1.4148035 L10.5851965,3.91445633 L11.8050271,2.69462575 L11.8050271,2.69462575 Z" id="Shape"></path>
+                <rect id="Rectangle-385" x="0" y="14" width="12" height="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

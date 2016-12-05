@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="12px" viewBox="0 0 18 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-conference</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Styleguide---Icons" transform="translate(-483.000000, -516.000000)" fill="#939FB4">
+            <path d="M497,520.5 L497,517 C497,516.45 496.55,516 496,516 L484,516 C483.45,516 483,516.45 483,517 L483,527 C483,527.55 483.45,528 484,528 L496,528 C496.55,528 497,527.55 497,527 L497,523.5 L501,527.5 L501,516.5 L497,520.5 L497,520.5 Z" id="icon-conference"></path>
+        </g>
+    </g>
+</svg>
